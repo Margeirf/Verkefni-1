@@ -1,0 +1,59 @@
+h1 {
+	text-align: center;
+	color: blue;
+	font-family: Arial;
+}
+h1 strong {
+	text-align: center;
+	color: red;
+	font-family: Arial;
+}
+h2 {
+	color: #800000;
+	font-family: Tahoma;
+}
+.raudur {
+	color: red;
+}
+.blar{
+	color: blue;
+}
+p em{
+	color: blue;
+}
+p strong{
+	color: red;
+}
+ul{
+	color: green;
+}
+.dokkraudur{
+	color: #990000;
+	font-family: georgia;
+}
+#border{
+	padding: 5px;
+	border: 3px;
+	border-style: solid;
+	border-color: blue;
+}
+.center{
+	text-align: center;
+    
+}
+.Tengill a{
+	background-color: yellow;
+	color: blue;
+}
+.Tengill a:visited{
+	background-color: red;
+	color: yellow;
+}
+.Tengill a:active{
+	background-color:blue;
+	color: red; 
+}
+.Tengill a:hover{
+	background-color: orange;
+	color: blue;
+}

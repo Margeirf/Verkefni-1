@@ -1,0 +1,48 @@
+body {
+	max-width: 50em;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	border: 2px solid blue;
+}
+
+h3 {
+	border-bottom: 1px solid;
+}
+
+.container {
+	margin-bottom: 1em;
+	padding: 1em;
+	background-color: rgba(255,255,255,1);
+}
+
+.box {
+	color: red;
+	margin-top: 3em;
+	padding: 2em;
+	border: 5px solid blue;
+}
+
+.box2 {
+	color: green;
+	border: 5px dotted red;
+	padding: .5em;
+}
+
+.in-line li {
+	display: inline-block;
+	border: 1px solid;
+	padding: .5em;
+	margin-top: 5em;
+}
+
+.in-line-block li {
+	display: inline-block;
+	border: 1px solid;
+	padding: .5em;
+	margin-top: 5em;
+}
